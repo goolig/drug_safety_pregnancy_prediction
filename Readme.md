@@ -8,9 +8,5 @@ This repository contains data and code needed to reproduce our work "Explainable
 2. output - results of running the experiments using our code
 2. src - code. Main files can be found under src\main
 
-## Cite (currently old preprint version)
-`@article{shtar2020treating,
-  title={Treating COVID-19 During Pregnancy: Using Artificial Intelligence to Evaluate Medication Safety},
-  author={Shtar, Guy and Rokach, Lior and Shapira, Bracha and Kohn, Elkana and Berkovitch, Matitiahu and Berlin, Maya},
-  year={2020}
-}`
+## Cite 
+Guy Shtar, Lior Rokach, Bracha Shapira, Elkana Kohn, Matitiahu Berkovitch, Maya Berlin, Explainable multimodal machine learning model for classifying pregnancy drug safety, Bioinformatics, 2021;, btab769, https://doi.org/10.1093/bioinformatics/btab769
