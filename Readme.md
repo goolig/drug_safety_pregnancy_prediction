@@ -2,6 +2,8 @@
 
 This repository contains data and code needed to reproduce our work "Explainable multimodal machine learning model for classifying pregnancy drug safety".
 
+The outputs of this method can be viewed on our website: https://icc.ise.bgu.ac.il/medical_ai/drug_preg/full/
+
 ## Structure
 
 1. data - contains data files, includes a structured version of drug features obtained from DrugBank
